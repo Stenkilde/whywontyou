@@ -1,0 +1,16 @@
+{
+  "name": "WhyWontYou",
+  "version": "0.0.0",
+  "description": "A funny project",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.1"
+  }
+}
